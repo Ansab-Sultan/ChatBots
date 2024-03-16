@@ -8,7 +8,7 @@ The Chatbots repository contains a diverse range of chatbots, each tailored to f
 
 ### Contents
 
-- **Website Developer Assistant**: AI-powered chatbot to assist in web development tasks using HTML and CSS.
+- [**Website Developer Assistant**](https://github.com/Ansab-Sultan/ChatBots/tree/main/Website%20Developer%20Assistant): AI-powered chatbot to assist in web development tasks using HTML and CSS.
 
 ## Usage
 
